@@ -29,5 +29,4 @@ An interactive web application that smoothly transitions between day and night t
 Click the toggle button to switch between day and night themes and enjoy the smooth animations!
 
 ## Demo
-
-Check out our demo video [here](https://github.com/user-attachments/assets/ef9d9365-5a14-453a-974d-574d34e5a36a).
+https://github.com/user-attachments/assets/ef9d9365-5a14-453a-974d-574d34e5a36a
